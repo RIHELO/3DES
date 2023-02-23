@@ -735,7 +735,7 @@ public void SubstitutionBox( byte [] a,byte []out)
   
   int bb = (int)( S[2][Z[2]][Y[2]] <<4 ) | S[3][Z[3]][Y[3]];
   R[1]=(byte)bb; 
-  int cc = (int)( S[4][Z[4]][Y[4]] <<4 ) | S[5][Z[5]][Y[7]];
+  int cc = (int)( S[4][Z[4]][Y[4]] <<4 ) | S[5][Z[5]][Y[5]];
   R[2]=(byte)cc; 
   int dd = (int)( S[6][Z[6]][Y[6]] <<4 ) | S[7][Z[7]][Y[7]];
   R[3]=(byte)dd;
