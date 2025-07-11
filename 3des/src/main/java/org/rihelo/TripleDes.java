@@ -1,3 +1,4 @@
+package org.rihelo;
 import java.util.Arrays;
 import java.io.IOException;
 import java.io.File;
@@ -704,10 +705,11 @@ public class TripleDes {
         }
     }
 
-// Main Procedure 
+// Main Procedure
 
     /**
      * @param args the command line arguments
+     * @return
      */
     public static void main(String[] args) {
         TripleDes a = new TripleDes();
