@@ -9,3 +9,5 @@ Decrypt
 ```
 java TripleDes d OUTPUT.txt DECRYPT.txt K1 K2 K3
 ```
+
+NOTE: this is a PoC, it is not ready for production.
